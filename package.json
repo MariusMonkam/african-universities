@@ -1,0 +1,24 @@
+{
+  "name": "afriuniv",
+  "version": "1.0.0",
+  "description": "African universities",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariusMonkam/africans-universities.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariusMonkam/africans-universities/issues"
+  },
+  "homepage": "https://github.com/MariusMonkam/africans-universities#readme",
+  "dependencies": {
+    "json-server": "^0.16.1",
+    "nodemon": "^2.0.4"
+  }
+}
