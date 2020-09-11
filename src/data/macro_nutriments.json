@@ -1,123 +1,125 @@
-[
-  {
-    "id": "1",
-    "substance": "Eau",
-    "quantité_hommes": "3.7 L / jour",
-    "quantité_femmes": " 2.7 L / jour",
-    "principales_sources": [
-      "eau",
-      "pastèque",
-      "laitue iceberg"
-    ]
-  },
-  {
-    "id": "2",
-    "substance": "Glucides",
-    "quantité_hommes": "130 g / jour",
-    "quantité_femmes": "130 g / jour",
-    "principales_sources": [
-      "fruits",
-      "lait",
-      "légumes",
-      "céréales"
-    ]
-  },
-  {
-    "id": "3",
-    "substance": "Protéines",
-    "quantité_hommes": "56 g / jour",
-    "quantité_femmes": "46 g / jour",
-    "principales_sources": [
-      "légumineuses (légumineuses et lentilles)",
-      "poissons",
-      "viandes",
-      "fruits à coque"
-    ]
-  },
-  {
-    "id": "4",
-    "substance": "Fibres ",
-    "quantité_hommes": "38 g / jour",
-    "quantité_femmes": "25 g / jour",
-    "principales_sources": [
-      "orge",
-      "boulgour",
-      "flocons d'avoine",
-      "légumineuses"
-    ]
-  },
-  {
-    "id": "5",
-    "substance": "Matières grasses",
-    "quantité_hommes": "20 à 35% des calories",
-    "quantité_femmes": "20 à 35% des calories",
-    "principales_sources": [
-      "huiles",
-      "beurre",
-      "noix",
-      "saindoux"
-    ]
-  },
-  {
-    "id": "6",
-    "substance": "Acide linoléique, un acide gras ,oméga-6 (polyinsaturé)",
-    "quantité_hommes": " 17 g / jour",
-    "quantité_femmes": "12 g / jour",
-    "principales_sources": [
-      "graines et huile de tournesol",
-      "huile de carthame"
-    ]
-  },
-  {
-    "id": "7",
-    "substance": "acide alpha-linolénique ,un acide gras, oméga-3 (polyinsaturé) ",
-    "quantité_hommes": "1,6 g / jour ",
-    "quantité_femmes": " 1,1 g /j",
-    "principales_sources": [
-      " Huile de lin (graine de lin)"
-    ]
-  },
-  {
-    "id": "8",
-    "substance": "Cholestérol",
-    "quantité_hommes": "300 milligrammes (mg)",
-    "quantité_femmes": "300 milligrammes (mg)",
-    "principales_sources": [
-      "abats de poulet",
-      "abats de dinde",
-      "foie de bœuf",
-      "jaune d'oeuf"
-    ]
-  },
-  {
-    "id": "9",
-    "substance": "Acides gras trans",
-    "quantité_hommes": "Aussi bas que possible",
-    "quantité_femmes": "Aussi bas que possible",
-    "principales_sources": []
-  },
-  {
-    "id": "10",
-    "substance": "Acides gras saturés",
-    "quantité_hommes": "Aussi bas que possible tout en consommant un régime alimentaire adéquat",
-    "quantité_femmes": "Aussi bas que possible tout en consommant un régime alimentaire adéquat",
-    "principales_sources": [
-      "Viande de coco",
-      "huile de coco",
-      "fromages",
-      "saindoux"
-    ]
-  },
-  {
-    "id": "11",
-    "substance": "Sucre",
-    "quantité_hommes": "ajouté Pas plus de 25% des calories",
-    "quantité_femmes": "ajouté Pas plus de 25% des calories",
-    "principales_sources": [
-      "gâteaux",
-      "biscuits",
-      "Aliments sucrés non naturels: bonbons",
-      "confitures"
-    ]
-  }
-]
+{
+  "nutriments": [
+    {
+      "id": "1",
+      "substance": "Eau",
+      "quantité_hommes": "3.7 L / jour",
+      "quantité_femmes": " 2.7 L / jour",
+      "principales_sources": [
+        "eau",
+        "pastèque",
+        "laitue iceberg"
+      ]
+    },
+    {
+      "id": "2",
+      "substance": "Glucides",
+      "quantité_hommes": "130 g / jour",
+      "quantité_femmes": "130 g / jour",
+      "principales_sources": [
+        "fruits",
+        "lait",
+        "légumes",
+        "céréales"
+      ]
+    },
+    {
+      "id": "3",
+      "substance": "Protéines",
+      "quantité_hommes": "56 g / jour",
+      "quantité_femmes": "46 g / jour",
+      "principales_sources": [
+        "légumineuses (légumineuses et lentilles)",
+        "poissons",
+        "viandes",
+        "fruits à coque"
+      ]
+    },
+    {
+      "id": "4",
+      "substance": "Fibres ",
+      "quantité_hommes": "38 g / jour",
+      "quantité_femmes": "25 g / jour",
+      "principales_sources": [
+        "orge",
+        "boulgour",
+        "flocons d'avoine",
+        "légumineuses"
+      ]
+    },
+    {
+      "id": "5",
+      "substance": "Matières grasses",
+      "quantité_hommes": "20 à 35% des calories",
+      "quantité_femmes": "20 à 35% des calories",
+      "principales_sources": [
+        "huiles",
+        "beurre",
+        "noix",
+        "saindoux"
+      ]
+    },
+    {
+      "id": "6",
+      "substance": "Acide linoléique, un acide gras ,oméga-6 (polyinsaturé)",
+      "quantité_hommes": " 17 g / jour",
+      "quantité_femmes": "12 g / jour",
+      "principales_sources": [
+        "graines et huile de tournesol",
+        "huile de carthame"
+      ]
+    },
+    {
+      "id": "7",
+      "substance": "acide alpha-linolénique ,un acide gras, oméga-3 (polyinsaturé) ",
+      "quantité_hommes": "1,6 g / jour ",
+      "quantité_femmes": " 1,1 g /j",
+      "principales_sources": [
+        " Huile de lin (graine de lin)"
+      ]
+    },
+    {
+      "id": "8",
+      "substance": "Cholestérol",
+      "quantité_hommes": "300 milligrammes (mg)",
+      "quantité_femmes": "300 milligrammes (mg)",
+      "principales_sources": [
+        "abats de poulet",
+        "abats de dinde",
+        "foie de bœuf",
+        "jaune d'oeuf"
+      ]
+    },
+    {
+      "id": "9",
+      "substance": "Acides gras trans",
+      "quantité_hommes": "Aussi bas que possible",
+      "quantité_femmes": "Aussi bas que possible",
+      "principales_sources": []
+    },
+    {
+      "id": "10",
+      "substance": "Acides gras saturés",
+      "quantité_hommes": "Aussi bas que possible tout en consommant un régime alimentaire adéquat",
+      "quantité_femmes": "Aussi bas que possible tout en consommant un régime alimentaire adéquat",
+      "principales_sources": [
+        "Viande de coco",
+        "huile de coco",
+        "fromages",
+        "saindoux"
+      ]
+    },
+    {
+      "id": "11",
+      "substance": "Sucre",
+      "quantité_hommes": "ajouté Pas plus de 25% des calories",
+      "quantité_femmes": "ajouté Pas plus de 25% des calories",
+      "principales_sources": [
+        "gâteaux",
+        "biscuits",
+        "Aliments sucrés non naturels: bonbons",
+        "confitures"
+      ]
+    }
+  ]
+}
