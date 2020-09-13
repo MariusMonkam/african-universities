@@ -22,7 +22,7 @@
     },
     {
       "id": "2",
-      "substance": "Glucelt_ides",
+      "substance": "Glucides",
       "quantité_hommes": "130 g / jour",
       "quantité_femmes": "130 g / jour",
       "principales_sources": [
@@ -126,7 +126,7 @@
     },
     {
       "id": "6",
-      "substance": "Acelt_ide linoléique, un acelt_ide gras ,oméga-6 (polyinsaturé)",
+      "substance": "Acide linoléique, un acide gras ,oméga-6 (polyinsaturé)",
       "quantité_hommes": " 17 g / jour",
       "quantité_femmes": "12 g / jour",
       "principales_sources": [
@@ -138,7 +138,7 @@
     },
     {
       "id": "7",
-      "substance": "acelt_ide alpha-linolénique ,un acelt_ide gras, oméga-3 (polyinsaturé) ",
+      "substance": "acide alpha-linolénique ,un acide gras, oméga-3 (polyinsaturé) ",
       "quantité_hommes": "1,6 g / jour ",
       "quantité_femmes": " 1,1 g /j",
       "principales_sources": [
@@ -174,14 +174,14 @@
     },
     {
       "id": "9",
-      "substance": "Acelt_ides gras trans",
+      "substance": "Acides gras trans",
       "quantité_hommes": "très bas",
       "quantité_femmes": "très bas",
       "principales_sources": []
     },
     {
       "id": "10",
-      "substance": "Acelt_ides gras saturés",
+      "substance": "Acides gras saturés",
       "quantité_hommes": "très bas",
       "quantité_femmes": "très bas",
       "principales_sources": [
