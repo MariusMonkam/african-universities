@@ -7,39 +7,39 @@
       "quantité_femmes": " 2.7 L / jour",
       "principales_sources": [
         {
-          "id": "-hNBS5q5klc",
+          "elt_id": "-hNBS5q5klc",
           "elt": "eau"
         },
         {
-          "id": "euqiHwS38Rw",
+          "elt_id": "euqiHwS38Rw",
           "elt": "pastèque"
         },
         {
-          "id": "s4gWFbWdcWg",
+          "elt_id": "s4gWFbWdcWg",
           "elt": "laitue iceberg"
         }
       ]
     },
     {
       "id": "2",
-      "substance": "Glucides",
+      "substance": "Glucelt_ides",
       "quantité_hommes": "130 g / jour",
       "quantité_femmes": "130 g / jour",
       "principales_sources": [
         {
-          "id": "acrBf9BlfvE",
+          "elt_id": "acrBf9BlfvE",
           "elt": "fruits"
         },
         {
-          "id": "_8bnn1GqX70",
+          "elt_id": "_8bnn1GqX70",
           "elt": "lait"
         },
         {
-          "id": "-gOUx23DNks",
+          "elt_id": "-gOUx23DNks",
           "elt": "legumes"
         },
         {
-          "id": "EV6C1LjH1Lk",
+          "elt_id": "EV6C1LjH1Lk",
           "elt": "céréales"
         }
       ]
@@ -51,27 +51,27 @@
       "quantité_femmes": "46 g / jour",
       "principales_sources": [
         {
-          "id": "t4X660oKiYs",
+          "elt_id": "t4X660oKiYs",
           "elt": "legumineuses"
         },
         {
-          "id": "QGIJUqnEpCY",
+          "elt_id": "QGIJUqnEpCY",
           "elt": "poissons"
         },
         {
-          "id": "utTJUcvNXXo",
+          "elt_id": "utTJUcvNXXo",
           "elt": "viandes"
         },
         {
-          "id": "pUa1On18Jno",
+          "elt_id": "pUa1On18Jno",
           "elt": "nuts"
         },
         {
-          "id": "eIzzzwtkBjU",
+          "elt_id": "eIzzzwtkBjU",
           "elt": "eggs"
         },
         {
-          "id": "jeAjT87nbjM",
+          "elt_id": "jeAjT87nbjM",
           "elt": "cheeses"
         }
       ]
@@ -83,19 +83,19 @@
       "quantité_femmes": "25 g / jour",
       "principales_sources": [
         {
-          "id": "JkfNpgk8oNw",
+          "elt_id": "JkfNpgk8oNw",
           "elt": "orge"
         },
         {
-          "id": "IgGFGxULsWg",
+          "elt_id": "IgGFGxULsWg",
           "elt": "boulgour"
         },
         {
-          "id": "HJUae0j54tI",
+          "elt_id": "HJUae0j54tI",
           "elt": "flocons d'avoine"
         },
         {
-          "id": "Bqd8t9_Rh2o",
+          "elt_id": "Bqd8t9_Rh2o",
           "elt": "legumineuses"
         }
       ]
@@ -107,43 +107,43 @@
       "quantité_femmes": "20 à 35% des calories",
       "principales_sources": [
         {
-          "id": "4E6Co0UzN20",
+          "elt_id": "4E6Co0UzN20",
           "elt": "huiles"
         },
         {
-          "id": "nnRdjlAhShI",
+          "elt_id": "nnRdjlAhShI",
           "elt": "beurre"
         },
         {
-          "id": "UaYXyayLv5Y",
+          "elt_id": "UaYXyayLv5Y",
           "elt": "noix"
         },
         {
-          "id": "1a",
+          "elt_id": "1a",
           "elt": "saindoux"
         }
       ]
     },
     {
       "id": "6",
-      "substance": "Acide linoléique, un acide gras ,oméga-6 (polyinsaturé)",
+      "substance": "Acelt_ide linoléique, un acelt_ide gras ,oméga-6 (polyinsaturé)",
       "quantité_hommes": " 17 g / jour",
       "quantité_femmes": "12 g / jour",
       "principales_sources": [
         {
-          "id": "nLBw1ZMyPQg",
+          "elt_id": "nLBw1ZMyPQg",
           "elt": "graine  et huile de tournesol"
         }
       ]
     },
     {
       "id": "7",
-      "substance": "acide alpha-linolénique ,un acide gras, oméga-3 (polyinsaturé) ",
+      "substance": "acelt_ide alpha-linolénique ,un acelt_ide gras, oméga-3 (polyinsaturé) ",
       "quantité_hommes": "1,6 g / jour ",
       "quantité_femmes": " 1,1 g /j",
       "principales_sources": [
         {
-          "id": "XoCLqOlTBJs",
+          "elt_id": "XoCLqOlTBJs",
           "elt": " Huile de lin (graine de lin)"
         }
       ]
@@ -155,50 +155,50 @@
       "quantité_femmes": "300 milligrammes (mg)",
       "principales_sources": [
         {
-          "id": "M0QYXzfTXkk",
+          "elt_id": "M0QYXzfTXkk",
           "elt": "abats de poulet"
         },
         {
-          "id": "Ct8JUJ8BCDo",
+          "elt_id": "Ct8JUJ8BCDo",
           "elt": "abats de dindes"
         },
         {
-          "id": "KKU3GQS_qhg",
+          "elt_id": "KKU3GQS_qhg",
           "elt": "foie de boeuf"
         },
         {
-          "id": "QKqQRIXH5oc",
+          "elt_id": "QKqQRIXH5oc",
           "elt": "jaune d'oeuf"
         }
       ]
     },
     {
       "id": "9",
-      "substance": "Acides gras trans",
+      "substance": "Acelt_ides gras trans",
       "quantité_hommes": "très bas",
       "quantité_femmes": "très bas",
       "principales_sources": []
     },
     {
       "id": "10",
-      "substance": "Acides gras saturés",
+      "substance": "Acelt_ides gras saturés",
       "quantité_hommes": "très bas",
       "quantité_femmes": "très bas",
       "principales_sources": [
         {
-          "id": "M0QYXzfTXkk",
+          "elt_id": "M0QYXzfTXkk",
           "elt": "Viande de coco"
         },
         {
-          "id": "Ct8JUJ8BCDo",
+          "elt_id": "Ct8JUJ8BCDo",
           "elt": "huile de coco"
         },
         {
-          "id": "KKU3GQS_qhg",
+          "elt_id": "KKU3GQS_qhg",
           "elt": "fromages"
         },
         {
-          "id": "QKqQRIXH5oc",
+          "elt_id": "QKqQRIXH5oc",
           "elt": "saindoux"
         }
       ]
@@ -210,15 +210,15 @@
       "quantité_femmes": "ajouté Pas plus de 25% des calories",
       "principales_sources": [
         {
-          "id": "kPxsqUGneXQ",
+          "elt_id": "kPxsqUGneXQ",
           "elt": "gâteaux"
         },
         {
-          "id": "k11ePtK1Lq8",
+          "elt_id": "k11ePtK1Lq8",
           "elt": "biscuits"
         },
         {
-          "id": "KKU3GQS_qhg",
+          "elt_id": "KKU3GQS_qhg",
           "elt": "bonbons"
         }
       ]
