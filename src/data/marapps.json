@@ -1,0 +1,52 @@
+{
+  "marapps": [
+    {
+      "id": "1",
+      "name": "EskyShare",
+      "short_des": "EskyShare is a very easy and fast photo camera editor.",
+      "long_desc": "EskyShare is a very easy and fast photo camera editor. EskyShare helps you create stunning Contents with 3 options to add your photo, unsplash, photo gallery and camera. There are lot of features to help you reach a professional result. After editing, you can directly share your artwork to the social network.",
+      "app_logo": "../images/eskyshare.png",
+      "app_link": "https://play.google.com/store/apps/details?id=com.monkam.eskyshare&hl=en"
+    },
+    {
+      "id": "2",
+      "name": "HandSinki",
+      "short_des": "Discover Places around Helsinki",
+      "long_desc": "Discover Places around Helsinki. HandSinki helps you find useful places around Helsinki, whether you are a visitor , tourist , living in Finland or just hanging around, this is a must have app. With this app, you have Helsinki in your hand. This app was developed with the api provided by MYHelsinki Open Api .",
+      "app_logo": "../images/handsinki.png",
+      "app_link": "https://play.google.com/store/apps/details?id=com.monkam.handsinki&hl=en"
+    },
+    {
+      "id": "3",
+      "name": "Kids Alphabet",
+      "short_des": "Kids Alphabet is an interactive multilingual play to learn alphabet app",
+      "long_desc": "Kids Alphabet is an interactive multilingual app , with this app they can learn alphabet while playing with letters. We start with English, French , Finnish and German. More languages will be added during our futures updates. Download the *Kids Alphabet* on Google play and enjoy!",
+      "app_logo": "../images/kids_alphabet.png",
+      "app_link": "https://play.google.com/store/apps/details?id=com.monkam.kidsalphabet&hl=en"
+    },
+    {
+      "id": "4",
+      "name": "Photicon",
+      "short_des": "Photicon is a masking image into icon App.",
+      "long_desc": "Photicon is a masking image into icon App. Photicon helps you create amazing post by placing your image into icon. 2 options to add your photo, your photo gallery and your camera.After editing, you can directly share your artwork to social network.",
+      "app_logo": "../images/photicon.png",
+      "app_link": "https://play.google.com/store/apps/details?id=com.monkam.photicon&hl=en"
+    },
+    {
+      "id": "5",
+      "name": "rewaf",
+      "short_des": "La vitrine des groupes thématiques WhatsApp Africains",
+      "long_desc": "Rewaf est une application qui référence les groupes thématiques WhatsApp du continent Africain. la plupart des sujets traités dans divers groupes whatsapp sont souvent très riches en contenu, et très utiles qu'il serait anormal de ne pas les mettre à la disposition du grand public pour le développement du continent. La première étape va consister à identifier tous ces groupes, ensuite les classer par thèmes par catégories, après quoi on fera connaitre leurs activités au grand public à travers nos différents réseaux.(Plus de details avenir)",
+      "app_logo": "../images/rewaf.png",
+      "app_link": "https://play.google.com/store/apps/details?id=com.rewaf&hl=en"
+    },
+    {
+      "id": "6",
+      "name": "PhotoGrid",
+      "short_des": "Photo camera grid creator",
+      "long_desc": "PhotoGrid is a camera grid Creator. PhotoGrid helps create quick grid for your photo that  you can directly share on social media or use in your project.",
+      "app_logo": "../images/photogrid.png",
+      "app_link": "https://play.google.com/store/apps/details?id=com.monkam.photogrid&hl=en"
+    }
+  ]
+}
